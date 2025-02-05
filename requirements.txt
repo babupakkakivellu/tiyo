@@ -3,3 +3,4 @@ Werkzeug
 google-auth-oauthlib
 google-api-python-client
 python-dotenv==0.19.0
+cryptography
